@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AuthActivity" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize theme attributes as needed -->
+        <item name="android:windowBackground">@color/your_background_color</item>
+        <!-- Add other customizations here -->
+    </style>
+
+
+</resources>
